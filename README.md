@@ -1,8 +1,8 @@
-Hi 👋, I'm Shivam Sahu
+<h1 align="center">Hi 👋, I'm Shivam Sahu</h1>
+<h3 align="center">Java Developer | DevOps Enthusiast</h3>
 
- 💻Java Developer | DevOps Enthusiast
 
- 💬 Ask me about **Java, Spring Boot, Git, GitHub, Linux , Cloud , CI/CD , Kubernates**
+ 💬 Ask me about **Java, Spring Boot, Git, GitHub, Linux , Cloud , CI/CD ,**
 
 ### 🛠️ Languages and Tools
 
