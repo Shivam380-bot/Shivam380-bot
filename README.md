@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivam Sahu</h1>
 <h3 align="center">Java Developer | DevOps Enthusiast</h3>
 
+<p align="center">
+📌 Computer Science student passionate about backend development and DevOps fundamentals  
+📈 Focused on clean code, REST APIs, and real-world projects
+</p>
+
 
  💬 Ask me about **Java, Spring Boot, Git, GitHub, Linux , Cloud , CI/CD ,**
 
